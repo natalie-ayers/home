@@ -14,8 +14,9 @@ An agent-based model developed with Mesa in Python which models Palestinian sent
 alt="Video Presentation" width="240" height="180" border="10" /></a>
 </div>
   
+  
+## Cook County Gunshot Homicide and Opioid Deaths
+  
 <div style="text-align: right"> 
-  ## Cook County Gunshot Homicide and Opioid Deaths
-    
  A Taableau dashboard and presentation gunshot homicides and opioid deaths in context of Chicago demographic, budget, geographic, leadership, and crime data. Developed while interning for the Cook County Medical Examiner in 2021.  
 </div>
