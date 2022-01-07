@@ -17,11 +17,12 @@ alt="Video Presentation" width="340" height="280" border="10" /></a>
     
     
 ## Cook County Gunshot Homicide and Opioid Deaths  
-    
-    
-<div style="text-align: right"> 
+  
  A Tableau dashboard and presentation gunshot homicides and opioid deaths in context of Chicago demographic, budget, geographic, leadership, and crime data. Developed while interning for the Cook County Medical Examiner, Dr. Ponni Arunkumar, in 2021.   
     
- [Tableau Dashboard](https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths)
- [Presentation](https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing)
-</div>
+![Tableau Dashboard](https://github.com/natalie-ayers/tech-portfolio/tree/main/docs/assets/cook-county-me-tableau.png "Tableau Dashboard")
+[Tableau Dashboard](https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths)   
+  
+![Presentation](https://github.com/natalie-ayers/tech-portfolio/tree/main/docs/assets/cook-count-me-presentation.png "Presentation")
+[Presentation](https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing)  
+
