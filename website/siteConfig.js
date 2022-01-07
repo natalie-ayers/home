@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Natalie Ayers', // Title for your website.
-    tagline: 'Curious, enthusiastic technologist using data science and tech for conflict and security applications.',
+    tagline: 'Curious, enthusiastic technologist using data science and tech for conflict and security applications',
     profilePhoto: 'img/profile.png',
     url: 'https://natalie-ayers.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
