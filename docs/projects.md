@@ -11,7 +11,9 @@ An agent-based model developed with Mesa in Python which models Palestinian sent
  
 <div style="text-align: left">
   <a href="https://www.youtube.com/watch?v=8I1WLeRj9hM" target="_blank"><img src="http://img.youtube.com/vi/8I1WLeRj9hM/0.jpg" 
-alt="Video Presentation" width="540" height="380" border="10" /></a>
+alt="Video Presentation" width="540" height="380" border="10" >
+    <figcaption>Video Presentation</figcaption>
+  </a>
 </div>
   
     
@@ -24,6 +26,7 @@ alt="Video Presentation" width="540" height="380" border="10" /></a>
   <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
     <img src="./assets/cook-county-me-tableau.png" alt="Tableau Dashboard"
     style="width:540px;height:300px;">
+    <figcaption>Tableau Dashboard</figcaption>
    </a>
 </div>
 
@@ -31,6 +34,7 @@ alt="Video Presentation" width="540" height="380" border="10" /></a>
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
     <img src="./assets/cook-count-me-presentation.png" alt="Presentation"
     style="width:540px;height:300px;">
+    <figcaption>Presentation</figcaption>
    </a>
 </div>
 
