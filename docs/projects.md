@@ -30,6 +30,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
    </a>
 </div>  
   
+&nbsp;
   
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
