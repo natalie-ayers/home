@@ -11,7 +11,7 @@ An agent-based model developed with Mesa in Python which models Palestinian sent
  
 <div style="text-align: left">
   <a href="https://www.youtube.com/watch?v=8I1WLeRj9hM" target="_blank"><img src="http://img.youtube.com/vi/8I1WLeRj9hM/0.jpg" 
-alt="Video Presentation" width="340" height="280" border="10" /></a>
+alt="Video Presentation" width="540" height="380" border="10" /></a>
 </div>
   
     
@@ -19,10 +19,12 @@ alt="Video Presentation" width="340" height="280" border="10" /></a>
 ## Cook County Gunshot Homicide and Opioid Deaths  
   
  A Tableau dashboard and presentation gunshot homicides and opioid deaths in context of Chicago demographic, budget, geographic, leadership, and crime data. Developed while interning for the Cook County Medical Examiner, Dr. Ponni Arunkumar, in 2021.   
-    
-![Tableau Dashboard](./assets/cook-county-me-tableau.png "Tableau Dashboard")  
-[Tableau Dashboard](https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths)   
-     
+
+<a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
+  <img src="./assets/cook-county-me-tableau.png" alt="Tableau Dashboard"
+  style="width:540px;height:380px;">
+ </a>
+
 ![Presentation](./assets/cook-count-me-presentation.png "Presentation")  
 [Presentation](https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing)   
 
