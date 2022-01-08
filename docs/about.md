@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-Welcome! I am pursuing a Master's in Computational Analysis and Public Policy at the University of Chicago's Harris School of Public Policy. I'm interested in developing and implementing computational methods for conflict and security applications,, which includes methods of machine learning, geospatial analysis, and large-scale data management. Current projects of interest are using natural language processing to generate insights into conflict causation, developing agent-based models of conflict intervention effectiveness, and building machine learning models of satellite imagery to deliniate conflict zones. 
+Welcome! I am pursuing a Master's in Computational Analysis and Public Policy at the University of Chicago's Harris School of Public Policy. I'm interested in developing and implementing computational methods for conflict and security applications, which includes methods of machine learning, geospatial analysis, and large-scale data management. Current projects of interest are using natural language processing to generate insights into conflict causation, developing agent-based models of conflict intervention effectiveness, and building machine learning models of satellite imagery to identify conflict zones. 
   
 With a background in Classics (Ancient Greek and archaeology will always be near and dear to my heart!) and Statistics from Kenyon College, I worked in data consulting for three years at Keyrus USA before leaving to pursue graduate study to discover new ways to apply data and computation for foreign policy and international conflict pursuits. 
     
