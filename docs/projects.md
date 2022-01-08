@@ -20,11 +20,17 @@ alt="Video Presentation" width="540" height="380" border="10" /></a>
   
  A Tableau dashboard and presentation gunshot homicides and opioid deaths in context of Chicago demographic, budget, geographic, leadership, and crime data. Developed while interning for the Cook County Medical Examiner, Dr. Ponni Arunkumar, in 2021.   
 
-<a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
-  <img src="./assets/cook-county-me-tableau.png" alt="Tableau Dashboard"
-  style="width:540px;height:300px;">
- </a>
+<div style="text-align: left">
+  <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
+    <img src="./assets/cook-county-me-tableau.png" alt="Tableau Dashboard"
+    style="width:540px;height:300px;">
+   </a>
+</div>
 
-![Presentation](./assets/cook-count-me-presentation.png "Presentation")  
-[Presentation](https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing)   
+<div style="text-align: left">
+  <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
+    <img src="./assets/cook-count-me-presentation.png" alt="Presentation"
+    style="width:540px;height:300px;">
+   </a>
+</div>
 
