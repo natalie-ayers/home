@@ -22,7 +22,7 @@ alt="Video Presentation" width="540" height="380" border="10" /></a>
 
 <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
   <img src="./assets/cook-county-me-tableau.png" alt="Tableau Dashboard"
-  style="width:540px;height:380px;">
+  style="width:740px;height:380px;">
  </a>
 
 ![Presentation](./assets/cook-count-me-presentation.png "Presentation")  
