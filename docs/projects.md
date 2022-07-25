@@ -48,7 +48,7 @@ Written while I was working with the [Center for Effective Global Action](https:
 <div style="text-align: left">
   <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
     <img src="./assets/geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
-    style="width:540px;height:300px;">
+    style="width:650px;height:300px;">
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
    </a>
 </div>
