@@ -46,7 +46,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
 Written while I was working with the [Center for Effective Global Action](https://cega.berkeley.edu/) on [Geospatial Analysis for Development](https://www.geo4.dev/), an initiative "to promote the use of geospatial and remote sensing data and technologies for global development research", this Python tutorial provides guidance on creating a machine learning model to identify crop types from satellite imagery and other earth observation data. For users with a sample of known crop locations, the tutorial demonstrates and describes the steps required to train a model on the known samples and predict crop locations for a wider area of interest.
 
 <div style="text-align: left">
-  <a href="[https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing](https://learn.geo4.dev/Satellite%20Crop%20Mapping.html)">
+  <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
     <img src="./assets/geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
     style="width:540px;height:300px;">
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
