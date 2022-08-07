@@ -5,7 +5,7 @@ title: About
 
 <img src="./assets/me_torredebelem.png" 
     alt="Me"
-    style="float: center; width:495px; height:450px;">
+    style="float: center; width:400px; height:444px;">
 
 Welcome! I am PhD student in Harvard University's Department of Government. My work focuses on developing and implementing computational methods - including machine learning, natural language processing, geospatial analysis, and large-scale data management - for conflict and security applications. Current projects of interest are using natural language processing to generate insights into conflict causation, developing agent-based models of conflict intervention effectiveness, and building machine learning models of satellite imagery to generate additional information about conflict zones and actors. 
   
