@@ -19,6 +19,6 @@ PhD student at Harvard University Department of Government; Methods and Internat
 
 ## Contact
 
-- Email: natalieayers@g.harvard.edu
+Email: natalieayers@g.harvard.edu
 
 
