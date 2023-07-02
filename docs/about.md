@@ -17,8 +17,8 @@ I am continuously excited by the amount there is left to learn and experience - 
 
 PhD student at Harvard University Department of Government; Methods and International Relations subfields 
 
-## Recognition
+## Contact
 
-- Siebel Scholar, Class of 2022
+- Email: natalieayers@g.harvard.edu
 
 
