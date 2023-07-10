@@ -3,6 +3,19 @@ id: projects
 title: Projects
 ---
 
+## Computational Approaches to the Study of Ancient Greek Conflict
+
+Initial work as part of a broader project studying the nature of conflict by applying modern conflict analysis theoretical frameworks and computational methodologies to Ancient Greek conflicts. The work below represents two strands of the computational arm of this research: (1) demonstrating the use of a BERT-based transformer model to generate contextual word embeddings from conflict-based texts and (2) developing a mixed-membership stochastic blockmodel of Greek city-state conflict. The transformer model was implemented in Python using Pytorch and visualized using UMAP with Tensorflow's Embedding Projector. The word embeddings show diverging usages for the same word over authors and time periods, providing avenues for further quantitative and qualitative analysis. The network model indicates that democracy may play a mixed role in driving conflict between and among group members. I'm in the process of further data collection to identify changing levels of democracy, fortifications, and material capabilities over time, which will allow for the same analysis using a dynamic mixed-membership blockmodel (dynMMSBM, Olivella et al. 2022). 
+
+<div style="text-align: left">
+  <a>
+    <img src="./assets/PolMeth2023-Poster.png" alt="Computational Methods Ancient Greek Conflict Poster"
+    style="width:540px;height:300px;">
+    <figcaption>Poster for Political Methodology Conference 2023</figcaption>
+   </a>
+</div>  
+
+
 ## Large-Scale Agent-Based Model of Israeli Counterterrorism  
   
 An agent-based model developed with Mesa in Python which models Palestinian sentiment, terrorist attacks, and Israeli counterterrorism actions. This model is inspired by the 2012 paper "Moving Beyond Deterrence: The Effectiveness of Raising the Expected Utility of Abstaining from Terrorism in Israel", by Laura Dugan and Erica Chenoweth, which examined the effect of different Israeli actions on terrorist attacks using logistic regression. I utilize two kinds of agents, Palestinians and the Israeli government, and explore the impact of Israeli actions and Palestinian satisfaction on the number of attacks. To test parameter selection with more than 11,000 possible configurations, I scaled the modeling using both MPI and AWS Lambda functions. Future directions for this project include increasing the complexity of the model to include Israeli terrorist attacks and add nuance to the Palestinian actors and creating Mesa extensions which use Dask and Dask-CUDA to improve the ability of Mesa models to parallelize.   
