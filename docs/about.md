@@ -3,7 +3,7 @@ id: about
 title: About
 ---
 
-<img src="./assets/testour-headshot-flowers-zoomedout.jpg" 
+<img src="./assets/testour-headshot-blue.jpg" 
     alt="Me"
     style="float: center; width:400px; height:444px;">
 
