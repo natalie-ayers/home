@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Natalie Ayers Blog</title>
+        <link>https://natalie-ayers.github.io/home/blog</link>
+        <description>The best place to stay up-to-date with the latest Natalie Ayers news and events.</description>
+        <lastBuildDate>Tue, 26 Jul 2022 06:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Natalie Ayers Blog</title>
+            <url>https://natalie-ayers.github.io/home/undefined</url>
+            <link>https://natalie-ayers.github.io/home/blog</link>
+        </image>
+        <copyright>Copyright © 2024 Natalie Ayers</copyright>
+        <item>
+            <title><![CDATA[Coming Soon]]></title>
+            <link>https://natalie-ayers.github.io/home/blog/2022/07/26/placeholder.html</link>
+            <guid>https://natalie-ayers.github.io/home/blog/2022/07/26/placeholder.html</guid>
+            <pubDate>Tue, 26 Jul 2022 06:00:00 GMT</pubDate>
+            <description><![CDATA[<p>New post coming soon!</p> ]]></description>
+        </item>
+    </channel>
+</rss>

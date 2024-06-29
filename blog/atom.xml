@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://natalie-ayers.github.io/home/blog</id>
+    <title>Natalie Ayers Blog</title>
+    <updated>2022-07-26T06:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://natalie-ayers.github.io/home/blog"/>
+    <subtitle>The best place to stay up-to-date with the latest Natalie Ayers news and events.</subtitle>
+    <logo>https://natalie-ayers.github.io/home/undefined</logo>
+    <rights>Copyright © 2024 Natalie Ayers</rights>
+    <entry>
+        <title type="html"><![CDATA[Coming Soon]]></title>
+        <id>https://natalie-ayers.github.io/home/blog/2022/07/26/placeholder.html</id>
+        <link href="https://natalie-ayers.github.io/home/blog/2022/07/26/placeholder.html"/>
+        <updated>2022-07-26T06:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>New post coming soon!</p> ]]></summary>
+        <author>
+            <name/>
+        </author>
+    </entry>
+</feed>
