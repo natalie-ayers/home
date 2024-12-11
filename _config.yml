@@ -22,9 +22,10 @@ plugins:
 
 # Site settings
 url: 'https://natalie-ayers.github.io'
-baseurl: ''
-title: 'Natalie Ayers Website'
-description: 'This is my new website'
+baseurl: '/home/'
+title: 'Natalie Ayers'
+description: ''
+repo: 'https://github.com/natalie-ayers/natalie-ayers-website'
 permalink: pretty
 logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=52"
 
