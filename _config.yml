@@ -27,6 +27,7 @@ baseurl: '/home/'
 title: 'Natalie Ayers'
 description: ''
 repo: 'https://github.com/natalie-ayers/home'
+logo: 
 
 # Jekyll settings
 sass:
@@ -46,7 +47,7 @@ navigation_header:
 - title: Research
   url: /research/
 - title: CV
-  url: /Natalie-Ayers-CV/
+  url: Natalie-Ayers-CV.pdf
 
 # Footer nav
 navigation_footer:
