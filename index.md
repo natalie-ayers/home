@@ -1,7 +1,6 @@
 ---
 title: Natalie Ayers
-header:
-	image: "./assets/header_image_headshot.png"
+background_image: "./assets/header_image_headshot.png"
 ---
 
 
