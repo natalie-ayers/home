@@ -27,7 +27,6 @@ baseurl: '/home/'
 title: 'Natalie Ayers'
 description: ''
 repo: 'https://github.com/natalie-ayers/home'
-logo: ""
 
 # Jekyll settings
 sass:
