@@ -46,9 +46,18 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-    {% include site-icons.svg %}
+    <div class="container demo-3">
+		<div class="top">
+			<img src="./assets/profile_smaller-optimized.jpg">
+		</div>
+		<div class="bottom">
+			<a><img align="left" src="./assets/headshot-round.png" class="main_headshot"></a>
 
-    {{ content }}
+			{% include site-icons.svg %}
+			{{ content }}
+
+		</div>
+	
 
     {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
 

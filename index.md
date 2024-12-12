@@ -1,8 +1,6 @@
 ---
-feature_image: "./assets/profile_smaller-optimized.jpg"
+layout: home
 ---
-
-<img align="left" src="./assets/headshot-round.png" class="main_headshot">
 
 # Natalie Ayers
 
