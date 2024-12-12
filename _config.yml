@@ -21,8 +21,9 @@ plugins:
 - jekyll-remote-theme
 
 # Site settings
+domain: 'natalie-ayers.github.io'
 url: 'https://natalie-ayers.github.io'
-baseurl: '/home/'
+baseurl: '/natalie-ayers-website/'
 title: 'Natalie Ayers'
 description: ''
 repo: 'https://github.com/natalie-ayers/natalie-ayers-website'
