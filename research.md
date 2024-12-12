@@ -9,7 +9,7 @@ Initial work as part of a broader project studying the nature of conflict by app
 
 <div style="text-align: left">
   <a href="https://github.com/natalie-ayers/ancient-greek-conflict/blob/main/PolMeth2023-Poster.pdf">
-    <img src="./assets/projects/polmeth-greek.jpg" alt="Computational Methods Ancient Greek Conflict Poster"
+    <img src="polmeth-greek.jpg" alt="Computational Methods Ancient Greek Conflict Poster"
     style="width:540px;height:300px;">
     <figcaption>Poster for Political Methodology Conference 2023</figcaption>
    </a>
@@ -37,7 +37,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
 
 <div style="text-align: left">
   <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
-    <img src="./assets/projects/cook-county-me-tableau.png" alt="Tableau Dashboard"
+    <img src="cook-county-me-tableau.png" alt="Tableau Dashboard"
     style="width:540px;height:300px;">
     <figcaption>Tableau Dashboard</figcaption>
    </a>
@@ -47,7 +47,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
   
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
-    <img src="./assets/projects/cook-count-me-presentation.png" alt="Presentation"
+    <img src="cook-count-me-presentation.png" alt="Presentation"
     style="width:540px;height:300px;">
     <figcaption>Presentation</figcaption>
    </a>
@@ -60,7 +60,7 @@ Written while I was working with the [Center for Effective Global Action](https:
 
 <div style="text-align: left">
   <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
-    <img src="./assets/projects/geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
+    <img src="geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
     style="width:650px;height:300px;">
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
    </a>
