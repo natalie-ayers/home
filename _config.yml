@@ -27,8 +27,14 @@ baseurl: '/home/'
 title: 'Natalie Ayers'
 description: ''
 repo: 'https://github.com/natalie-ayers/home'
-permalink: pretty
 logo: ""
+
+# Jekyll settings
+sass:
+    style: compressed
+permalink: pretty
+
+
 
 # Pagination
 paginate: 5
@@ -38,10 +44,10 @@ paginate_path: blog/page:num
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
-- title: Blog
-  url: /blog/
+- title: Research
+  url: /research/
+- title: CV
+  url: /cv/
 
 # Footer nav
 navigation_footer:
@@ -53,7 +59,6 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   LinkedIn: https://www.linkedin.com/in/natalieayers27/
   GitHub: https://github.com/natalie-ayers
   link: https://natalie-ayers.github.io/home/
-
 
 
 # Collections
