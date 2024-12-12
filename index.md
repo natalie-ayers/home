@@ -4,7 +4,7 @@ feature_image: "./assets/profile_smaller-optimized.jpg"
 feature_text: ""
 ---
 
-<img style="float: left" src="./assets/Natalie-Headshot-Round.jpg" alt="Natalie Ayers" />
+<img style="float: left" src="./assets/Natalie-Headshot-Round.png" alt="Natalie Ayers" />
 
 Welcome! I am PhD Candidate in Harvard University's Department of Government. My work focuses on developing and implementing computational methods - including machine learning, natural language processing, geospatial analysis, and large-scale data management - for conflict and security applications. Current projects of interest are using natural language processing to study the Russian-Ukrainian conflict, examining Ancient Greek conflict using network analysis, NLP, and modern conflict theories, characterizing the urban and media landscapes of post-conflict cities and countries, and building machine learning models of satellite imagery to generate additional information about conflict zones and actors. 
   
