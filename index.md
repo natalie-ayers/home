@@ -1,8 +1,7 @@
 ---
 title: Natalie Ayers
-feature_image: "./assets/profile_smaller-optimized.jpg"
+feature_image: "./assets/header_image_headshot.png"
 feature_text: ""
-<img style="float: left" src="./assets/Natalie-Headshot-Round.png" alt="Natalie Ayers" />
 ---
 
 /*<img style="float: left" src="./assets/Natalie-Headshot-Round.png" alt="Natalie Ayers" />*/
