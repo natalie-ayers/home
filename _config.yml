@@ -22,12 +22,11 @@ plugins:
 
 # Site settings
 domain: 'natalie-ayers.github.io'
-url: 'https://natalie-ayers.github.io's
+url: 'https://natalie-ayers.github.io'
 baseurl: '/home/'
 title: 'Natalie Ayers'
 description: ''
 repo: 'https://github.com/natalie-ayers/home'
-logo: 
 
 # Jekyll settings
 sass:
