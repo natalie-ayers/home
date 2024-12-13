@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 domain: 'natalie-ayers.github.io'
-url: 'https://natalie-ayers.github.io'
+url: 'https://natalie-ayers.github.io's
 baseurl: '/home/'
 title: 'Natalie Ayers'
 description: ''
