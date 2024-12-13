@@ -48,20 +48,20 @@
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
     <div class="container demo-3">
 		<div class="top">
-			<img src="./assets/profile_smaller-optimized.jpg" class="top>
+			<img src="./assets/profile_smaller-optimized.jpg" class="home_img1">
 		</div>
-		<div class="bottom">
+		<div class="home_img2">
 			<a><img align="left" src="./assets/headshot-round.png"></a>
-
-			{% include site-icons.svg %}
-			{{ content }}
-
 		</div>
-	
 
-    {% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
+		{% include site-icons.svg %}
+		{{ content }}
 
-    {% include site-before-end.html %}
+		{% if site.service_worker != false %}{% include site-sw.html %}{% endif %}
+
+		{% include site-before-end.html %}
+		
+
   </body>
 
 </html>

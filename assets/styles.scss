@@ -21,9 +21,6 @@ main_headshot {
 	margin-top: -800px;
 }
 
-.container {
-}
-
 .container + .container {
     margin-top: 1em;
 }
@@ -38,6 +35,18 @@ a {
     border-radius: 50px;
     overflow: hidden;
     float:left;
+}
+
+.home_img1 {
+	position: relative;
+	z-index:2;
+}
+
+.home_img2{
+	position: relative;
+	z-index: 1;
+	top: -200px;
+	left:-100px;
 }
 
 .demo-3 a {
