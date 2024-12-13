@@ -1,5 +1,4 @@
 ---
-layout: home
 feature_image: "./assets/profile_smaller-optimized.jpg"
 ---
 
