@@ -2,7 +2,7 @@
 feature_image: "./assets/profile_smaller-optimized.jpg"
 ---
 
-<img src="./assets/headshot-round.png" class=home_img2" alt="Natalie Ayers">
+<img src="./assets/headshot-round.png" class="home_img2" alt="Natalie Ayers">
 
 
 # Natalie Ayers
