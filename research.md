@@ -70,7 +70,7 @@ A Tableau dashboard and presentation on gunshot homicides and opioid deaths in t
 <div style="text-align: left">
   <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
     <img src="cook-county-me-tableau.png" alt="Tableau Dashboard"
-    style="width:540px;height:300px;border-radius: 0px;">
+    style="width:540px;height:300px;">
     <figcaption>Tableau Dashboard</figcaption>
   </a>
 </div>
@@ -80,7 +80,7 @@ A Tableau dashboard and presentation on gunshot homicides and opioid deaths in t
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
     <img src="cook-count-me-presentation.png" alt="Presentation"
-    style="width:540px;height:300px;border-radius: 0px;">
+    style="width:540px;height:300px;">
     <figcaption>Presentation</figcaption>
   </a>
 </div>
@@ -104,10 +104,11 @@ provides guidance on creating a machine learning model to identify crop types fr
 <div style="text-align: left">
   <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
     <img src="geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
-    style="width:650px;height:300px;border-radius: 0px;">
+    style="width:650px;height:300px;">
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
