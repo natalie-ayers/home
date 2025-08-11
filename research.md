@@ -11,12 +11,13 @@ Initial work as part of a broader research agenda to develop a novel dataset of 
 <div style="text-align: left">
    <a>
     <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
-    style="width:540px;height:380px;">
+    style="width:540px;height:420px;">
     <figcaption>Poster for Political Methodology Conference 2025</figcaption>
    </a>
 </div>  
 
-<br />
+<br /><br />
+
 
 ## Computational Approaches to the Study of Ancient Greek Conflict
 
@@ -30,7 +31,8 @@ Initial work as part of a broader project studying the nature of conflict by app
    </a>
 </div>  
 
-<br />
+<br /><br />
+
 
 ## Large-Scale Agent-Based Model of Israeli Counterterrorism  
   
@@ -45,7 +47,8 @@ alt="Video Presentation" width="540" height="380" border="10" >
   </a>
 </div>
 
-<br />
+<br /><br />
+
     
     
 ## Cook County Gunshot Homicide and Opioid Deaths  
@@ -60,7 +63,8 @@ alt="Video Presentation" width="540" height="380" border="10" >
    </a>
 </div>  
   
-<br />
+<br /><br />
+
   
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
@@ -69,11 +73,15 @@ alt="Video Presentation" width="540" height="380" border="10" >
     <figcaption>Presentation</figcaption>
    </a>
 </div>
-&nbsp;
+
+<br /><br />
+
 
 ## Satellite Crop Type Mapping Tutorial (written for Geo4Dev Initiative)
 
-Written while I was working with the [Center for Effective Global Action](https://cega.berkeley.edu/) on [Geospatial Analysis for Development](https://www.geo4.dev/), an initiative "to promote the use of geospatial and remote sensing data and technologies for global development research", this Python tutorial provides guidance on creating a machine learning model to identify crop types from satellite imagery and other earth observation data. For users with a sample of known crop locations, the tutorial demonstrates and describes the steps required to train a model on the known samples and predict crop locations for a wider area of interest.
+Written while I was working with the [Center for Effective Global Action](https://cega.berkeley.edu/) on [Geospatial Analysis for Development](https://www.geo4.dev/) , an initiative "to promote the use of geospatial and remote sensing data and technologies for global development research", this Python tutorial provides guidance on creating a machine learning model to identify crop types from satellite imagery and other earth observation data. For users with a sample of known crop locations, the tutorial demonstrates and describes the steps required to train a model on the known samples and predict crop locations for a wider area of interest.
+
+<br /><br />
 
 <div style="text-align: left">
   <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
@@ -85,5 +93,6 @@ Written while I was working with the [Center for Effective Global Action](https:
 
 
 [Tutorial](https://learn.geo4.dev/Satellite%20Crop%20Mapping.html)
+
 
 
