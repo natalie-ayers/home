@@ -7,15 +7,18 @@ title: Projects
 
 Initial work as part of a broader research agenda to develop a novel dataset of urban intergroup integration in post-conflict societies and examine the impacts of physical integration on post-conflict recovery. The work below describes the process of collecting the dataset using Google Maps and historical maps to identify the locations of key religious, cultural, and administrative sites within each post-conflict urban area, and the creation of an intergroup spatial integration measure from these locations. It also demonstrates an initial exploratory analysis using this dataset to evaluate the mitigating impact of spatial integration on conflict following the withdrawal of peacekeepers from post-conflict regions, using the former Yugoslavia as a case study.
 
-<br />
 
 <div style="text-align: left">
    <a>
     <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
-    style="width:540px;height:420px;">
-    <figcaption>Poster for Political Methodology Conference 2025</figcaption>
+    style="width:540px;height:420px;border-radius: 0px;">
    </a>
+   <div style="text-align: center; font-size: 0.9em; margin-top: 4px;">
+      Poster for Political Methodology Conference 2025
+   </div>
 </div>
+
+
 
 <div style="clear: both"></div>
 
@@ -31,9 +34,11 @@ Initial work as part of a broader project studying the nature of conflict by app
 <div style="text-align: left">
   <a href="https://github.com/natalie-ayers/ancient-greek-conflict/blob/main/PolMeth2023-Poster.pdf">
     <img src="polmeth-greek.jpg" alt="Computational Methods Ancient Greek Conflict Poster"
-    style="width:540px;height:340px;">
-    <figcaption>Poster for Political Methodology Conference 2023</figcaption>
+    style="width:540px;height:340px;border-radius: 0px;">
    </a>
+   <div style="text-align: center; font-size: 0.9em; margin-top: 4px;">
+     Poster for Political Methodology Conference 2023
+   </div>
 </div>
 
 <div style="clear: both"></div>
@@ -69,7 +74,7 @@ A Tableau dashboard and presentation on gunshot homicides and opioid deaths in t
 <div style="text-align: left">
   <a href="https://public.tableau.com/app/profile/natalie.ayers/viz/CookCountyGunshotHomicideandOpioidDeaths/GunandOpioidDeaths">
     <img src="cook-county-me-tableau.png" alt="Tableau Dashboard"
-    style="width:540px;height:300px;">
+    style="width:540px;height:300px;border-radius: 0px;">
     <figcaption>Tableau Dashboard</figcaption>
   </a>
 </div>
@@ -79,7 +84,7 @@ A Tableau dashboard and presentation on gunshot homicides and opioid deaths in t
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
     <img src="cook-count-me-presentation.png" alt="Presentation"
-    style="width:540px;height:300px;">
+    style="width:540px;height:300px;border-radius: 0px;">
     <figcaption>Presentation</figcaption>
   </a>
 </div>
@@ -103,10 +108,11 @@ provides guidance on creating a machine learning model to identify crop types fr
 <div style="text-align: left">
   <a href="https://learn.geo4.dev/Satellite%20Crop%20Mapping.html">
     <img src="geo4dev_malawi_gcvi.png" alt="Sentinel-2 GCVI in Malawi"
-    style="width:650px;height:300px;">
+    style="width:650px;height:300px;border-radius: 0px;">
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
