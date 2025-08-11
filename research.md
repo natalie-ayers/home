@@ -11,7 +11,7 @@ Initial work as part of a broader research agenda to develop a novel dataset of 
 <div style="text-align: left">
    <a>
     <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
-    style="width:540px;height:300px;">
+    style="width:540px;height:340px;">
     <figcaption>Poster for Political Methodology Conference 2025</figcaption>
    </a>
 </div>  
@@ -24,11 +24,11 @@ Initial work as part of a broader project studying the nature of conflict by app
 <div style="text-align: left">
   <a href="https://github.com/natalie-ayers/ancient-greek-conflict/blob/main/PolMeth2023-Poster.pdf">
     <img src="polmeth-greek.jpg" alt="Computational Methods Ancient Greek Conflict Poster"
-    style="width:540px;height:300px;">
+    style="width:540px;height:340px;">
     <figcaption>Poster for Political Methodology Conference 2023</figcaption>
    </a>
 </div>  
-
+&nbsp;
 
 ## Large-Scale Agent-Based Model of Israeli Counterterrorism  
   
@@ -42,7 +42,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
     <figcaption>Video Presentation</figcaption>
   </a>
 </div>
-  
+&nbsp;  
     
     
 ## Cook County Gunshot Homicide and Opioid Deaths  
@@ -66,7 +66,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
     <figcaption>Presentation</figcaption>
    </a>
 </div>
-
+&nbsp;
 
 ## Satellite Crop Type Mapping Tutorial (written for Geo4Dev Initiative)
 
@@ -82,3 +82,4 @@ Written while I was working with the [Center for Effective Global Action](https:
 
 
 [Tutorial](https://learn.geo4.dev/Satellite%20Crop%20Mapping.html)
+
