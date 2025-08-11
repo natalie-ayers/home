@@ -3,6 +3,9 @@ id: projects
 title: Projects
 ---
 
+<hr style="border: none; border-top: 1px solid #ccc; margin-top: 0.5em; margin-bottom: 1.5em;" />
+
+
 ## Intergroup Spatial Integration and Post-Conflict Recovery
 
 Initial work as part of a broader research agenda to develop a novel dataset of urban intergroup integration in post-conflict societies and examine the impacts of physical integration on post-conflict recovery. The work below describes the process of collecting the dataset using Google Maps and historical maps to identify the locations of key religious, cultural, and administrative sites within each post-conflict urban area, and the creation of an intergroup spatial integration measure from these locations. It also demonstrates an initial exploratory analysis using this dataset to evaluate the mitigating impact of spatial integration on conflict following the withdrawal of peacekeepers from post-conflict regions, using the former Yugoslavia as a case study.
@@ -108,6 +111,7 @@ provides guidance on creating a machine learning model to identify crop types fr
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
