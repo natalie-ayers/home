@@ -11,11 +11,9 @@ Initial work as part of a broader research agenda to develop a novel dataset of 
 <div style="text-align: left">
    <a>
     <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
-    style="width:540px;height:420px;border-radius: 0px;">
+    style="width:540px;height:420px;">
+       <figcaption> Poster for Political Methodology Conference 2025</figcaption>
    </a>
-   <div style="text-align: center; font-size: 0.9em; margin-top: 4px;">
-      Poster for Political Methodology Conference 2025
-   </div>
 </div>
 
 
@@ -34,11 +32,9 @@ Initial work as part of a broader project studying the nature of conflict by app
 <div style="text-align: left">
   <a href="https://github.com/natalie-ayers/ancient-greek-conflict/blob/main/PolMeth2023-Poster.pdf">
     <img src="polmeth-greek.jpg" alt="Computational Methods Ancient Greek Conflict Poster"
-    style="width:540px;height:340px;border-radius: 0px;">
+    style="width:540px;height:340px;">
+     <figcaption>Poster for Political Methodology Conference 2023</figcaption>
    </a>
-   <div style="text-align: center; font-size: 0.9em; margin-top: 4px;">
-     Poster for Political Methodology Conference 2023
-   </div>
 </div>
 
 <div style="clear: both"></div>
@@ -112,6 +108,7 @@ provides guidance on creating a machine learning model to identify crop types fr
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
