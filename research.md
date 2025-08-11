@@ -3,6 +3,20 @@ id: projects
 title: Projects
 ---
 
+## Intergroup Spatial Integration and Post-Conflict Recovery
+
+Initial work as part of a broader research agenda to develop a novel dataset of urban intergroup integration in post-conflict societies and examine the impacts of physical integration on post-conflict recovery. The work below describes the process of collecting the dataset using Google Maps and historical maps to identify the locations of key religious, cultural, and administrative sites within each post-conflict urban area, and the creation of an intergroup spatial integration measure from these locations. It also demonstrates an initial exploratory analysis using this dataset to evaluate the mitigating impact of spatial integration on conflict following the withdrawal of peacekeepers from post-conflict regions, using the former Yugoslavia as a case study. 
+
+
+<div style="text-align: left">
+   <a>
+    <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
+    style="width:540px;height:300px;">
+    <figcaption>Poster for Political Methodology Conference 2025</figcaption>
+   </a>
+</div>  
+
+
 ## Computational Approaches to the Study of Ancient Greek Conflict
 
 Initial work as part of a broader project studying the nature of conflict by applying modern conflict analysis theoretical frameworks and computational methodologies to Ancient Greek conflicts. The work below represents two strands of the computational arm of this research: (1) demonstrating the use of a BERT-based transformer model to generate contextual word embeddings from conflict-based texts and (2) developing a mixed-membership stochastic blockmodel of Greek city-state conflict. The transformer model was implemented in Python using Pytorch and visualized using UMAP with Tensorflow's Embedding Projector. The word embeddings show diverging usages for the same word over authors and time periods, providing avenues for further quantitative and qualitative analysis. The network model indicates that democracy may play a mixed role in driving conflict between and among group members. I'm in the process of further data collection to identify changing levels of democracy, fortifications, and material capabilities over time, which will allow for the same analysis using a dynamic mixed-membership blockmodel (dynMMSBM, Olivella et al. 2022). 
@@ -65,5 +79,6 @@ Written while I was working with the [Center for Effective Global Action](https:
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
    </a>
 </div>
+
 
 [Tutorial](https://learn.geo4.dev/Satellite%20Crop%20Mapping.html)
