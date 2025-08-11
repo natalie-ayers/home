@@ -11,11 +11,12 @@ Initial work as part of a broader research agenda to develop a novel dataset of 
 <div style="text-align: left">
    <a>
     <img src="ayers-poster-polmeth2025.png" alt="Intergroup Spatial Integration Poster"
-    style="width:540px;height:340px;">
+    style="width:540px;height:380px;">
     <figcaption>Poster for Political Methodology Conference 2025</figcaption>
    </a>
 </div>  
 
+<br />
 
 ## Computational Approaches to the Study of Ancient Greek Conflict
 
@@ -28,7 +29,8 @@ Initial work as part of a broader project studying the nature of conflict by app
     <figcaption>Poster for Political Methodology Conference 2023</figcaption>
    </a>
 </div>  
-&nbsp;
+
+<br />
 
 ## Large-Scale Agent-Based Model of Israeli Counterterrorism  
   
@@ -42,7 +44,8 @@ alt="Video Presentation" width="540" height="380" border="10" >
     <figcaption>Video Presentation</figcaption>
   </a>
 </div>
-&nbsp;  
+
+<br />
     
     
 ## Cook County Gunshot Homicide and Opioid Deaths  
@@ -57,7 +60,7 @@ alt="Video Presentation" width="540" height="380" border="10" >
    </a>
 </div>  
   
-&nbsp;
+<br />
   
 <div style="text-align: left">
   <a href="https://docs.google.com/presentation/d/15MvU1IsGYTSDqNEzOoKX-G8zy4eZfAKL26h_HxnBu44/edit?usp=sharing">
@@ -82,4 +85,5 @@ Written while I was working with the [Center for Effective Global Action](https:
 
 
 [Tutorial](https://learn.geo4.dev/Satellite%20Crop%20Mapping.html)
+
 
