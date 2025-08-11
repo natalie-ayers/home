@@ -3,8 +3,6 @@ id: projects
 title: Projects
 ---
 
-<hr style="border: none; border-top: 1px solid #ccc; margin-top: 0.5em; margin-bottom: 1.5em;" />
-
 
 ## Intergroup Spatial Integration and Post-Conflict Recovery
 
@@ -111,6 +109,7 @@ provides guidance on creating a machine learning model to identify crop types fr
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
