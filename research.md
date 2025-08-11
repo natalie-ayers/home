@@ -17,7 +17,10 @@ Initial work as part of a broader research agenda to develop a novel dataset of 
    </a>
 </div>
 
+<div style="clear: both"></div>
+
 <br /><br />
+
 
 ## Computational Approaches to the Study of Ancient Greek Conflict
 
@@ -32,6 +35,8 @@ Initial work as part of a broader project studying the nature of conflict by app
     <figcaption>Poster for Political Methodology Conference 2023</figcaption>
    </a>
 </div>
+
+<div style="clear: both"></div>
 
 <br /><br />
 
@@ -50,6 +55,8 @@ An agent-based model developed with Mesa in Python which models Palestinian sent
     <figcaption>Video Presentation</figcaption>
   </a>
 </div>
+
+<div style="clear: both"></div>
 
 <br /><br />
 
@@ -77,6 +84,8 @@ A Tableau dashboard and presentation on gunshot homicides and opioid deaths in t
   </a>
 </div>
 
+<div style="clear: both"></div>
+
 <br /><br />
 
 ## Satellite Crop Type Mapping Tutorial (written for Geo4Dev Initiative)
@@ -98,6 +107,7 @@ provides guidance on creating a machine learning model to identify crop types fr
     <figcaption>GCVI Levels from Sentinel-2 Satellite Imagery in Malawi</figcaption>
   </a>
 </div>
+
 
 
 
