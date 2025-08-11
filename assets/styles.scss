@@ -30,11 +30,14 @@ main_headshot {
     padding: 2em;
 }
 
-a {
-    display: block;
+a img {
     border-radius: 0;
-    overflow: visible;
-    float:none;
+    display: block;
+}
+
+a {
+    display: inline;
+    text-decoration: underline;
 }
 
 .home_img1 {
