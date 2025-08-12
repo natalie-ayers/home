@@ -6,7 +6,9 @@ styles: true
 @import "alembic";
 
 main h1:first-of-type {
-  border-bottom: 1px solid #242e2b; 
+  border-bottom: 1px solid #05bf85; 
+  width: 70%;
+  font-size: 90%;
   padding-bottom: 0.25em;
   margin-bottom: 1.2em;
 }
