@@ -1,6 +1,5 @@
 ---
 id: about
-title: About
 ---
 
 <img src="./assets/testour-headshot-blue.jpg" 
