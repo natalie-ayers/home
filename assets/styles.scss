@@ -5,7 +5,7 @@ styles: true
 
 @import "alembic";
 
-article.article--page h1:first-of-type {
+body.id-projects article.article--page h1:first-of-type {
   border-bottom: 1px solid #05bf85; 
   width: 70%;
   font-size: 3rem !important;
